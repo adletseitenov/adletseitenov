@@ -10,6 +10,8 @@ I build AI tools that work in production or fully offline, and robots that measu
 | **1st place** | Decentrathon 6.0, Uralsk, Grand Mobile case: I led a team of 4 |
 | **Diploma** | Shapagat-2025 invention contest (Qazpatent), Young Talent category, for PipeEye |
 | **2nd place** | Robotics Battle 2026 (Batys Hub), PipeEye |
+| **₸2M** | prize money: AFM ₸1M, Decentrathon ₸500K, Shapagat ₸500K |
+| **Central Asia FIRST** | Robot Design Award 2025, Champion's Award finalist 2024 |
 | **300+** | students trained in the school robotics club I founded |
 
 ### Projects
